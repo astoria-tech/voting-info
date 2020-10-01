@@ -25,8 +25,6 @@ BallotInfo.propTypes = {
   submit: PropTypes.string.isRequired,
 }
 
-export default BallotInfo
-
 /*
   <iframe
     id="etp-iframe"
@@ -39,3 +37,5 @@ export default BallotInfo
   >
   </iframe>
 */
+
+export default BallotInfo
